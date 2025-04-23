@@ -24,7 +24,7 @@ A FastAPI-based system that monitors store uptime and downtime, providing detail
 1. Clone the repository:
 ```bash
 git clone https://github.com/Amanastel/store_monitoring
-cd store-monitoring-0
+cd store-monitoring
 ```
 
 2. Create and activate a virtual environment:
